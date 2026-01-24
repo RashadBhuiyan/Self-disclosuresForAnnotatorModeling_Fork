@@ -22,20 +22,20 @@ declare -a job_configs=(
     # "Most Similar 30 Sentences|verdict_embeddings_sentlevel_30.pkl|similar_30_sentences"
 
     # tests for random comments 
-    "5 Random Comments|random_post_embeddings_5.pkl|random_5_comments"
-    "10 Random Comments|random_post_embeddings_10.pkl|random_10_comments"
-    "15 Random Comments|random_post_embeddings_15.pkl|random_15_comments"
-    "20 Random Comments|random_post_embeddings_20.pkl|random_20_comments"
-    "25 Random Comments|random_post_embeddings_25.pkl|random_25_comments"
-    "30 Random Comments|random_post_embeddings_30.pkl|random_30_comments"
+    # "5 Random Comments|random_post_embeddings_5.pkl|random_5_comments"
+    # "10 Random Comments|random_post_embeddings_10.pkl|random_10_comments"
+    # "15 Random Comments|random_post_embeddings_15.pkl|random_15_comments"
+    # "20 Random Comments|random_post_embeddings_20.pkl|random_20_comments"
+    # "25 Random Comments|random_post_embeddings_25.pkl|random_25_comments"
+    # "30 Random Comments|random_post_embeddings_30.pkl|random_30_comments"
 
-    # tests for random sentences
-    "5 Random Sentences|random_sent_embeddings_5.pkl|random_5_sentences"
-    "10 Random Sentences|random_sent_embeddings_10.pkl|random_10_sentences"
-    "15 Random Sentences|random_sent_embeddings_15.pkl|random_15_sentences"
-    "20 Random Sentences|random_sent_embeddings_20.pkl|random_20_sentences"
-    "25 Random Sentences|random_sent_embeddings_25.pkl|random_25_sentences"
-    "30 Random Sentences|random_sent_embeddings_30.pkl|random_30_sentences"
+    # # tests for random sentences
+    # "5 Random Sentences|random_sent_embeddings_5.pkl|random_5_sentences"
+    # "10 Random Sentences|random_sent_embeddings_10.pkl|random_10_sentences"
+    # "15 Random Sentences|random_sent_embeddings_15.pkl|random_15_sentences"
+    # "20 Random Sentences|random_sent_embeddings_20.pkl|random_20_sentences"
+    # "25 Random Sentences|random_sent_embeddings_25.pkl|random_25_sentences"
+    # "30 Random Sentences|random_sent_embeddings_30.pkl|random_30_sentences"
 
     # # || TABLE 5 TESTS || #
 
@@ -51,7 +51,7 @@ declare -a job_configs=(
     # "Automatic Clustering - Acc. Social Needs|verdict_embeddings_cluster_1.pkl|social_needs"
     # "Automatic Clustering - Parenting & Discipline|verdict_embeddings_cluster_2.pkl|parenting_discipline"
     # "Automatic Clustering - Family Struct. Change|verdict_embeddings_cluster_3.pkl|family_struct_change"
-    # "Automatic Clustering - Rel. Issues w/Men|verdict_embeddings_cluster_4.pkl|rel_issues_men"
+    "Automatic Clustering - Rel. Issues w/Men|verdict_embeddings_cluster_4.pkl|rel_issues_men"
     # "Automatic Clustering - Rel. Issues w/Women|verdict_embeddings_cluster_5.pkl|rel_issues_women"
     # "Automatic Clustering - Sympathy & Support|verdict_embeddings_cluster_6.pkl|sympathy_support"
     # "Automatic Clustering - Family Disputes|verdict_embeddings_cluster_7.pkl|family_disputes"
@@ -61,7 +61,7 @@ declare -a job_configs=(
 
 )
 
-for i in {1..5}; do
+for i in {1}; do
 
     for job in "${job_configs[@]}"; do
         IFS="|" read -r plot_title embedding_path output_name <<< "$job"
