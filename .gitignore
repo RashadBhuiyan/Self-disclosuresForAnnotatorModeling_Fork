@@ -3,9 +3,7 @@ data
 logs
 results
 .idea
-*.txt
 *.md
-*.json
 __pycache__
 *.out
 .cache

@@ -1,0 +1,4512 @@
+{
+  "data": {
+    "9tnapa": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 70
+    },
+    "9tnnbh": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 71
+    },
+    "9tnwbu": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 72
+    },
+    "9tnx2l": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 73
+    },
+    "9to4ha": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 74
+    },
+    "9toa5s": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 75
+    },
+    "9toan3": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 76
+    },
+    "9tobyo": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 77
+    },
+    "9toirc": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 78
+    },
+    "9tor20": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 79
+    },
+    "9torcl": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 80
+    },
+    "9towg2": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 81
+    },
+    "9tp0rd": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 82
+    },
+    "9tpg3v": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 83
+    },
+    "9tpjm6": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 84
+    },
+    "9tps75": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 85
+    },
+    "9tq44z": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 86
+    },
+    "9tq69n": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 87
+    },
+    "9tqbqe": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 88
+    },
+    "9tqtkt": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 89
+    },
+    "9treay": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 90
+    },
+    "9trhu5": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 91
+    },
+    "9trjh8": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 92
+    },
+    "9ttjuj": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 93
+    },
+    "9ttnjb": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 94
+    },
+    "9tufjy": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 95
+    },
+    "9turr5": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 96
+    },
+    "9tusxj": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 97
+    },
+    "9tv6bu": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 98
+    },
+    "9tvd3g": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 99
+    },
+    "9tvesl": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 100
+    },
+    "9tvl4t": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 101
+    },
+    "9tvoha": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 102
+    },
+    "9tvqa4": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 103
+    },
+    "9tvt8r": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 104
+    },
+    "9tvy8l": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 105
+    },
+    "9tvzd9": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 106
+    },
+    "9txo76": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 107
+    },
+    "9txyqa": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 108
+    },
+    "9tyc9m": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 109
+    },
+    "9t7hyg": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 10
+    },
+    "9t7mgw": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 11
+    },
+    "9t8pxo": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 12
+    },
+    "9t91ug": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 13
+    },
+    "9t97li": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 14
+    },
+    "9t9yun": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 15
+    },
+    "9ta230": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 16
+    },
+    "9ta82q": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 17
+    },
+    "9tahgx": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 18
+    },
+    "9tajyn": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 19
+    },
+    "9tamas": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 20
+    },
+    "9tare8": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 21
+    },
+    "9tb8vq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 22
+    },
+    "9tbqyt": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 23
+    },
+    "9tbvrp": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 24
+    },
+    "9tc1th": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 25
+    },
+    "9tci24": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 26
+    },
+    "9tcj2n": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 27
+    },
+    "9tcli5": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 28
+    },
+    "9tcxbo": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 29
+    },
+    "9td5dc": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 30
+    },
+    "9tdaqr": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 31
+    },
+    "9tdlwn": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 32
+    },
+    "9tdwxn": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 33
+    },
+    "9te292": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 34
+    },
+    "9te6r2": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 35
+    },
+    "9tedo1": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 36
+    },
+    "9tewly": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 37
+    },
+    "9tf819": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 38
+    },
+    "9tfqg8": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 39
+    },
+    "9tfud3": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 40
+    },
+    "9tg7fs": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 41
+    },
+    "9tg97n": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 42
+    },
+    "9tgraa": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 43
+    },
+    "9tgttv": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 44
+    },
+    "9tgu1h": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 45
+    },
+    "9th9eq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 46
+    },
+    "9thasf": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 47
+    },
+    "9thswh": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 48
+    },
+    "9thuj9": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 49
+    },
+    "9thxvo": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 50
+    },
+    "9tip0k": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 51
+    },
+    "9tiybs": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 52
+    },
+    "9tj2de": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 53
+    },
+    "9tj844": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 54
+    },
+    "9tji7a": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 55
+    },
+    "9tjsdd": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 56
+    },
+    "9tjxzj": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 57
+    },
+    "9tku3o": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 58
+    },
+    "9tl0vv": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 59
+    },
+    "9vmbb9": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 370
+    },
+    "9vmphr": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 371
+    },
+    "9vmzho": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 372
+    },
+    "9vn03t": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 373
+    },
+    "9vn562": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 374
+    },
+    "9vn5fl": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 375
+    },
+    "9vn7hw": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 376
+    },
+    "9vngng": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 377
+    },
+    "9vnpx5": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 378
+    },
+    "9vo56q": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 379
+    },
+    "9vodbi": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 380
+    },
+    "9voese": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 381
+    },
+    "9voldi": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 382
+    },
+    "9vp38s": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 383
+    },
+    "9vpg26": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 384
+    },
+    "9vpmu2": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 385
+    },
+    "9vputc": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 386
+    },
+    "9vqd6o": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 387
+    },
+    "9vrn0i": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 388
+    },
+    "9vryxc": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 389
+    },
+    "9vtjpa": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 390
+    },
+    "9vunno": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 391
+    },
+    "9vuwub": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 392
+    },
+    "9vvdns": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 393
+    },
+    "9vvskq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 394
+    },
+    "9vw5xs": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 395
+    },
+    "9vwq77": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 396
+    },
+    "9vx36l": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 397
+    },
+    "9vxd1t": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 398
+    },
+    "9vxedc": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 399
+    },
+    "9vezx3": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 340
+    },
+    "9vf26p": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 341
+    },
+    "9vfb52": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 342
+    },
+    "9vfnil": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 343
+    },
+    "9vfqyc": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 344
+    },
+    "9vfuqt": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 345
+    },
+    "9vfz7o": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 346
+    },
+    "9vg624": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 347
+    },
+    "9vg8ns": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 348
+    },
+    "9vgan1": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 349
+    },
+    "9vgie7": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 350
+    },
+    "9vgjlq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 351
+    },
+    "9vgmb4": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 352
+    },
+    "9vh6q1": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 353
+    },
+    "9vh7x7": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 354
+    },
+    "9vheuw": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 355
+    },
+    "9vhgsu": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 356
+    },
+    "9vhsr9": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 357
+    },
+    "9vhzk5": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 358
+    },
+    "9vjf56": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 359
+    },
+    "9vjm79": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 360
+    },
+    "9vjp9l": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 361
+    },
+    "9vjzmn": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 362
+    },
+    "9vk4o6": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 363
+    },
+    "9vk9x8": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 364
+    },
+    "9vkcla": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 365
+    },
+    "9vlb6p": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 366
+    },
+    "9vlo9q": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 367
+    },
+    "9vlvbq": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 368
+    },
+    "9vmb0m": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 369
+    },
+    "9vxm1a": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 400
+    },
+    "9vxroq": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 401
+    },
+    "9vy0z5": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 402
+    },
+    "9vyaoq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 403
+    },
+    "9vybej": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 404
+    },
+    "9vybrh": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 405
+    },
+    "9vyht2": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 406
+    },
+    "9vyiov": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 407
+    },
+    "9vz510": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 408
+    },
+    "9vzxwo": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 409
+    },
+    "9w098x": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 410
+    },
+    "9w0eho": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 411
+    },
+    "9w0fdh": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 412
+    },
+    "9w0i7c": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 413
+    },
+    "9w0k1o": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 414
+    },
+    "9w0nuj": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 415
+    },
+    "9w0vxs": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 416
+    },
+    "9w1b89": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 417
+    },
+    "9w1n8t": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 418
+    },
+    "9w1s1z": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 419
+    },
+    "9w2cyt": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 420
+    },
+    "9w2nlw": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 421
+    },
+    "9w3uw2": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 422
+    },
+    "9w3x72": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 423
+    },
+    "9w4inr": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 424
+    },
+    "9w4srd": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 425
+    },
+    "9w4t6v": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 426
+    },
+    "9w4x2f": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 427
+    },
+    "9w4xhj": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 428
+    },
+    "9w50g6": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 429
+    },
+    "9v0cl7": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 260
+    },
+    "9v0msf": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 261
+    },
+    "9v0mvl": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 262
+    },
+    "9v0r2k": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 263
+    },
+    "9v0tg7": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 264
+    },
+    "9v1ecl": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 265
+    },
+    "9v1kt5": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 266
+    },
+    "9v1osi": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 267
+    },
+    "9v1wco": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 268
+    },
+    "9v1y6s": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 269
+    },
+    "9v20f5": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 270
+    },
+    "9v28p9": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 271
+    },
+    "9v2c9e": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 272
+    },
+    "9v2ebw": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 273
+    },
+    "9v2gnu": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 274
+    },
+    "9v2hzf": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 275
+    },
+    "9v2kb6": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 276
+    },
+    "9v2m4t": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 277
+    },
+    "9v2shd": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 278
+    },
+    "9v36ht": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 279
+    },
+    "9v3drw": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 280
+    },
+    "9v3flk": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 281
+    },
+    "9v3xqf": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 282
+    },
+    "9v43bs": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 283
+    },
+    "9v46ti": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 284
+    },
+    "9v4byn": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 285
+    },
+    "9v4cyw": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 286
+    },
+    "9v4k00": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 287
+    },
+    "9v4mrf": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 288
+    },
+    "9v4rhm": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 289
+    },
+    "9v4yxo": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 290
+    },
+    "9v56ed": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 291
+    },
+    "9v577k": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 292
+    },
+    "9v5aup": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 293
+    },
+    "9v5pyw": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 294
+    },
+    "9v5vbf": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 295
+    },
+    "9v629h": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 296
+    },
+    "9v6ge0": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 297
+    },
+    "9v6k7e": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 298
+    },
+    "9v6o7l": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 299
+    },
+    "9v6yh6": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 300
+    },
+    "9v6zoc": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 301
+    },
+    "9v7kyl": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 302
+    },
+    "9v7n3t": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 303
+    },
+    "9v7u44": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 304
+    },
+    "9v7wnj": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 305
+    },
+    "9v7y62": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 306
+    },
+    "9v83lf": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 307
+    },
+    "9v85ak": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 308
+    },
+    "9v87n4": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 309
+    },
+    "9wecxu": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 460
+    },
+    "9wef7o": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 461
+    },
+    "9wepto": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 462
+    },
+    "9wf8re": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 463
+    },
+    "9wffzo": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 464
+    },
+    "9wfnty": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 465
+    },
+    "9wfyn8": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 466
+    },
+    "9wg9ep": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 467
+    },
+    "9wh7x3": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 468
+    },
+    "9whk5y": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 469
+    },
+    "9whlu1": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 470
+    },
+    "9whwto": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 471
+    },
+    "9wi1vx": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 472
+    },
+    "9wi322": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 473
+    },
+    "9wi9zo": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 474
+    },
+    "9wigsd": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 475
+    },
+    "9wipbt": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 476
+    },
+    "9wiu1j": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 477
+    },
+    "9wiy1p": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 478
+    },
+    "9wj1yp": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 479
+    },
+    "9wj2m0": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 480
+    },
+    "9wj4mm": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 481
+    },
+    "9wj5o9": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 482
+    },
+    "9wjh7k": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 483
+    },
+    "9wjifg": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 484
+    },
+    "9wjsu6": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 485
+    },
+    "9wjtyp": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 486
+    },
+    "9wk1hm": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 487
+    },
+    "9wkbc6": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 488
+    },
+    "9wkiit": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 489
+    },
+    "9wkkk0": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 490
+    },
+    "9wknuh": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 491
+    },
+    "9wkqmr": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 492
+    },
+    "9wlm4e": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 493
+    },
+    "9wmast": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 494
+    },
+    "9wmiqu": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 495
+    },
+    "9wmtow": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 496
+    },
+    "9wmymk": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 497
+    },
+    "9wn049": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 498
+    },
+    "9wn1mn": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 499
+    },
+    "9tl4go": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 60
+    },
+    "9tl4qm": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 61
+    },
+    "9tl6rt": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 62
+    },
+    "9tl8ff": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 63
+    },
+    "9tlbw4": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 64
+    },
+    "9tlex0": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 65
+    },
+    "9tltzu": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 66
+    },
+    "9tm8tq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 67
+    },
+    "9tmro1": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 68
+    },
+    "9tn5is": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 69
+    },
+    "9t4mgu": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 0
+    },
+    "9t4u6g": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 1
+    },
+    "9t4uue": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 2
+    },
+    "9t4y2u": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 3
+    },
+    "9t4zwg": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 4
+    },
+    "9t64uv": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 5
+    },
+    "9t6ctw": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 6
+    },
+    "9t6o2w": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 7
+    },
+    "9t6o73": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 8
+    },
+    "9t7f1g": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 9
+    },
+    "9w539i": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 430
+    },
+    "9w5brq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 431
+    },
+    "9w5dln": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 432
+    },
+    "9w5ki2": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 433
+    },
+    "9w64ok": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 434
+    },
+    "9w64ua": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 435
+    },
+    "9w6g0l": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 436
+    },
+    "9w6gyj": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 437
+    },
+    "9w7h0p": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 438
+    },
+    "9w7hkz": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 439
+    },
+    "9w7olq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 440
+    },
+    "9w84v9": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 441
+    },
+    "9w88on": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 442
+    },
+    "9w8988": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 443
+    },
+    "9w8ckv": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 444
+    },
+    "9w8l9c": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 445
+    },
+    "9w8z55": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 446
+    },
+    "9w98j0": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 447
+    },
+    "9w9gc9": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 448
+    },
+    "9wa06v": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 449
+    },
+    "9wa761": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 450
+    },
+    "9wafyp": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 451
+    },
+    "9wapkw": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 452
+    },
+    "9wb2qf": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 453
+    },
+    "9wc1y8": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 454
+    },
+    "9wc3s4": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 455
+    },
+    "9wczdy": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 456
+    },
+    "9wdyhs": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 457
+    },
+    "9wdyqf": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 458
+    },
+    "9we6a2": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 459
+    },
+    "9uotbp": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 210
+    },
+    "9uouyt": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 211
+    },
+    "9uoxkr": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 212
+    },
+    "9up0iu": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 213
+    },
+    "9up2i8": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 214
+    },
+    "9up2tb": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 215
+    },
+    "9up62x": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 216
+    },
+    "9up6re": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 217
+    },
+    "9upb94": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 218
+    },
+    "9upg6k": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 219
+    },
+    "9upuqp": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 220
+    },
+    "9uq04o": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 221
+    },
+    "9uq3lp": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 222
+    },
+    "9uqwrq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 223
+    },
+    "9uqwzg": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 224
+    },
+    "9urm9e": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 225
+    },
+    "9uroc7": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 226
+    },
+    "9us8q7": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 227
+    },
+    "9usaij": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 228
+    },
+    "9uslfq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 229
+    },
+    "9usue3": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 230
+    },
+    "9usy6s": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 231
+    },
+    "9ut1h3": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 232
+    },
+    "9ut3d0": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 233
+    },
+    "9ut52l": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 234
+    },
+    "9ut8nu": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 235
+    },
+    "9utxnn": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 236
+    },
+    "9uuhgi": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 237
+    },
+    "9uumw1": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 238
+    },
+    "9uunsq": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 239
+    },
+    "9uupsy": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 240
+    },
+    "9uva9c": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 241
+    },
+    "9uvkcj": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 242
+    },
+    "9uvt6s": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 243
+    },
+    "9uw48m": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 244
+    },
+    "9uxbel": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 245
+    },
+    "9uxds7": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 246
+    },
+    "9uxpua": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 247
+    },
+    "9uxsta": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 248
+    },
+    "9uy5nu": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 249
+    },
+    "9uyha1": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 250
+    },
+    "9uyjla": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 251
+    },
+    "9uyro4": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 252
+    },
+    "9uz3o1": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 253
+    },
+    "9uzg28": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 254
+    },
+    "9uzt3x": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 255
+    },
+    "9uzt5f": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 256
+    },
+    "9uzt8y": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 257
+    },
+    "9v07n7": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 258
+    },
+    "9v088t": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 259
+    },
+    "9v8dho": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 310
+    },
+    "9v8fca": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 311
+    },
+    "9v8kel": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 312
+    },
+    "9v8uty": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 313
+    },
+    "9v94dk": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 314
+    },
+    "9v9fl7": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 315
+    },
+    "9v9zph": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 316
+    },
+    "9va4b0": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 317
+    },
+    "9vakdp": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 318
+    },
+    "9vb3lr": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 319
+    },
+    "9vb76o": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 320
+    },
+    "9vbgqo": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 321
+    },
+    "9vc0ux": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 322
+    },
+    "9vc1e3": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 1,
+      "index": 323
+    },
+    "9vc1ts": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 324
+    },
+    "9vcdjk": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 325
+    },
+    "9vcfm3": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 326
+    },
+    "9vci7z": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 327
+    },
+    "9vcs0l": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 328
+    },
+    "9vd85f": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 329
+    },
+    "9vd9mx": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 330
+    },
+    "9vdmex": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 331
+    },
+    "9vdrx3": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 332
+    },
+    "9vdtcd": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 333
+    },
+    "9vdtsm": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 334
+    },
+    "9vdwup": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 335
+    },
+    "9ve1hr": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 336
+    },
+    "9velwa": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 337
+    },
+    "9veug8": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 338
+    },
+    "9veus0": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 339
+    },
+    "9tyh8n": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 110
+    },
+    "9tzdsg": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 111
+    },
+    "9tzsd9": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 112
+    },
+    "9tzuwf": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 113
+    },
+    "9u115d": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 114
+    },
+    "9u11xy": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 115
+    },
+    "9u1axr": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 116
+    },
+    "9u1dfx": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 117
+    },
+    "9u1i47": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 118
+    },
+    "9u1l85": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 119
+    },
+    "9u1ybp": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 120
+    },
+    "9u2g6h": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 121
+    },
+    "9u2kvg": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 122
+    },
+    "9u2oz5": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 123
+    },
+    "9u2ria": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 124
+    },
+    "9u2son": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 125
+    },
+    "9u2uv3": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 126
+    },
+    "9u2wdb": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 127
+    },
+    "9u2ybg": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 128
+    },
+    "9u310p": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 129
+    },
+    "9u3a4e": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 130
+    },
+    "9u3exw": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 131
+    },
+    "9u3n09": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 132
+    },
+    "9u3q71": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 133
+    },
+    "9u44gm": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 134
+    },
+    "9u4rj4": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 135
+    },
+    "9u4x20": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 136
+    },
+    "9u512d": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 137
+    },
+    "9u5yac": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 138
+    },
+    "9u61xd": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 139
+    },
+    "9u6tbi": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 140
+    },
+    "9u7hre": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 141
+    },
+    "9u7jzz": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 142
+    },
+    "9u7lgd": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 143
+    },
+    "9u7x32": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 144
+    },
+    "9u8313": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 145
+    },
+    "9u860k": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 146
+    },
+    "9u877w": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 147
+    },
+    "9u8bre": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 148
+    },
+    "9u8vbf": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 149
+    },
+    "9u945y": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 150
+    },
+    "9u9by1": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 151
+    },
+    "9u9dm0": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 152
+    },
+    "9u9w8a": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 153
+    },
+    "9ua5na": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 154
+    },
+    "9uaav4": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 155
+    },
+    "9uasui": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 156
+    },
+    "9uav06": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 157
+    },
+    "9uazvw": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 158
+    },
+    "9ubm8u": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 159
+    },
+    "9uc544": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 160
+    },
+    "9ucil0": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 161
+    },
+    "9ucm77": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 162
+    },
+    "9udd9g": {
+      "disagree": 0,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 163
+    },
+    "9uddar": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 164
+    },
+    "9udfnt": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 165
+    },
+    "9udmc6": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 166
+    },
+    "9udzsg": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 167
+    },
+    "9ue5e5": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 168
+    },
+    "9ueexx": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 169
+    },
+    "9ueh3g": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 170
+    },
+    "9uensh": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 171
+    },
+    "9uepxl": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 172
+    },
+    "9uf5of": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 173
+    },
+    "9uf992": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 174
+    },
+    "9ufc52": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 175
+    },
+    "9ufjou": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 176
+    },
+    "9ufvlz": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 177
+    },
+    "9ug1rr": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 178
+    },
+    "9ug4gj": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 179
+    },
+    "9ugifd": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 180
+    },
+    "9ugilx": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 181
+    },
+    "9ugish": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 182
+    },
+    "9uh3ys": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 183
+    },
+    "9uhpy4": {
+      "disagree": 1,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 184
+    },
+    "9uhst1": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 185
+    },
+    "9uhxtg": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 186
+    },
+    "9uhy3g": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 187
+    },
+    "9ui1ge": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 188
+    },
+    "9ui375": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 189
+    },
+    "9uiobt": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 190
+    },
+    "9uir9b": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 1,
+      "index": 191
+    },
+    "9uistd": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 192
+    },
+    "9uj1ok": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 193
+    },
+    "9uj2uq": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 0,
+      "manifest": 0,
+      "people": 0,
+      "index": 194
+    },
+    "9uk845": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 195
+    },
+    "9ukjhd": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 1,
+      "index": 196
+    },
+    "9ul17j": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 197
+    },
+    "9ul4ra": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 198
+    },
+    "9ul86i": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 0,
+      "manifest": 1,
+      "people": 0,
+      "index": 199
+    },
+    "9uldjv": {
+      "disagree": 0,
+      "emotion": 0,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 200
+    },
+    "9ulivo": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 201
+    },
+    "9uln4y": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 202
+    },
+    "9um28m": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 203
+    },
+    "9uma3n": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 204
+    },
+    "9umdkl": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 0,
+      "people": 0,
+      "index": 205
+    },
+    "9umeon": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 206
+    },
+    "9umlk7": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 207
+    },
+    "9unr99": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 1,
+      "duration": 1,
+      "manifest": 1,
+      "people": 0,
+      "index": 208
+    },
+    "9uoc93": {
+      "disagree": 1,
+      "emotion": 1,
+      "interfere": 0,
+      "duration": 1,
+      "manifest": 1,
+      "people": 1,
+      "index": 209
+    }
+  },
+  "mappings": {
+    "emotion": { "Mild": 0, "Strong": 1, "Intense": 1 },
+    "disagree": { "Mild": 0, "Strong": 1, "Intense": 1 },
+    "interfere": { "Not at all": 0, "Somewhat": 0, "Strongly": 1 },
+    "duration": { "One-time incident": 0, "Longer": 1 },
+    "manifest": { "Perceived": 0, "Manifest": 1 },
+    "people": { "One person": 0, "Multiple people": 1 }
+  }
+}
