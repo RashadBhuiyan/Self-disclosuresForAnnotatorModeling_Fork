@@ -1,0 +1,2 @@
+Json files of AMIT subreddit, created from the users_history_full, which the full history of reddit, filtered by the users in our dataset.
+This means, that this folder, contains all our users comments in AMIT subreddit. 
