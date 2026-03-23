@@ -8,4 +8,4 @@
 module load python/3.11
 source env/bin/activate
 echo "Checking that file extensions are valid..."
-python validate.py
+python src/validate.py
