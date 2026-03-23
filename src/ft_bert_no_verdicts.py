@@ -251,7 +251,7 @@ if __name__ == '__main__':
     
         logging.info("Training with SBERT, model name is {}".format(model_name))
 
-        local_path = "/home/kieranh/projects/def-cfwelch/kieranh/Self-disclosuresForAnnotatorModeling/.cache/huggingface/hub/models--sentence-transformers--all-distilroberta-v1/snapshots/842eaed40bee4d61673a81c92d5689a8fed7a09f"  # Use actual snapshot hash
+        # local_path = "/home/kieranh/projects/def-cfwelch/kieranh/Self-disclosuresForAnnotatorModeling/.cache/huggingface/hub/models--sentence-transformers--all-distilroberta-v1/snapshots/842eaed40bee4d61673a81c92d5689a8fed7a09f"  # Use actual snapshot hash
         # model = AutoModel.from_pretrained(local_path)
         # tokenizer = AutoTokenizer.from_pretrained(local_path)
 

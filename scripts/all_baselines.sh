@@ -4,8 +4,8 @@
 
 # Each job config line: num_posts|output_name|embedding_file
 declare -a job_configs=(
-    "0|baseline_zero|data/embeddings/baseline_embeddings_zero.pkl"
-    "1000000|baseline_all|data/embeddings/baseline_embeddings_all.pkl"
+    "0|baseline_zero|dataset/embeddings/baseline_embeddings_zero.pkl"
+    "1000000|baseline_all|dataset/embeddings/baseline_embeddings_all.pkl"
 
 )
 
@@ -22,8 +22,8 @@ for i in {1..5}; do
 #SBATCH --cpus-per-task=6
 #SBATCH --mem=96G
 #SBATCH --time=5:59:00
-#SBATCH --gres=gpu:1
-#SBATCH --mail-user=hendek12@mcmaster.ca
+#SBATCH --gres=gpu:h100:1
+#SBATCH --mail-user=bhuiyr2@mcmaster.ca
 #SBATCH --mail-type=BEGIN,END
 #SBATCH --output=logs/slurm/${output_name}_${i}.out
 
