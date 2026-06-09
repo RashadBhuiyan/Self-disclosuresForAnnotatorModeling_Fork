@@ -1,12 +1,11 @@
 env
 data
 logs
-results
 .idea
 *.md
 __pycache__
 *.out
 .cache
-*.json
 *.pkl
 *.zip
+*.pt

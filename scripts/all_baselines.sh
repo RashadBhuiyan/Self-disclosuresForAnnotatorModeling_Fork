@@ -32,7 +32,7 @@ module load StdEnv/2023
 module load gcc/12.3
 module load cuda/12.2
 module load cudnn/9.2.1.18
-module load arrow/18.1.0
+module load arrow/21.0.0
 
 source env/bin/activate
 python src/ft_bert_no_verdicts.py \
@@ -49,7 +49,7 @@ python src/ft_bert_no_verdicts.py \
 --situation='text' \
 --authors_embedding_path='${embedding_file}' \
 --plot_title='${output_name} Embedding Baseline' \
---path_to_data='data/' \
+--path_to_data='dataset/' \
 --social_norm='true' \
 --log_file='${output_name}_${i}'
 EOL

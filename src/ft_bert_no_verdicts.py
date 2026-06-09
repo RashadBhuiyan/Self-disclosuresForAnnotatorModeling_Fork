@@ -3,6 +3,7 @@ Fine tune the SBERT model on AITA verdicts without using the verdict text, only 
 This can be using all X, no X, or random X, where X is comments or sentences from the author.
 """
 
+import os
 import glob
 import sys
 print(sys.executable)
@@ -58,9 +59,9 @@ parser.add_argument("--dropout_rate", dest="dropout_rate", default=0.2, type=flo
 parser.add_argument("--weight_decay", dest="weight_decay", default=1e-2, type=float)
 parser.add_argument("--batch_size", dest="batch_size", default=32, type=int)
 parser.add_argument("--loss_type", dest="loss_type", default='softmax', type=str)
-parser.add_argument("--verdicts_dir", dest="verdicts_dir", default='../data/verdicts', type=str)
+parser.add_argument("--verdicts_dir", dest="verdicts_dir", default='../dataset/verdicts', type=str)
 parser.add_argument("--bert_tok", dest="bert_tok", default='bert-base-uncased', type=str)
-parser.add_argument("--dirname", dest="dirname", type=str, default='../data/amit_filtered_history')
+parser.add_argument("--dirname", dest="dirname", type=str, default='../dataset/amit_filtered_history')
 parser.add_argument("--results_dir", dest="results_dir", type=str, default='../results')
 parser.add_argument("--model_name", dest="model_name", type=str, required=True) # ['judge_bert', 'sbert'] otherwise exception
 parser.add_argument("--plot_title", dest="plot_title", type=str, default='') # for plotting the results
@@ -100,6 +101,7 @@ if __name__ == '__main__':
     checkpoint_dir = os.path.join('results/best_models', f'{TIMESTAMP}_best_model_sampled.pt')
     graph_checkpoint_dir = os.path.join(results_dir, f'best_models/{TIMESTAMP}_best_graphmodel.pt')
     dropout_rate = args.dropout_rate
+    sbert_model = args.sbert_model
 
     
     authors_embedding_path = args.authors_embedding_path
@@ -255,8 +257,8 @@ if __name__ == '__main__':
         # model = AutoModel.from_pretrained(local_path)
         # tokenizer = AutoTokenizer.from_pretrained(local_path)
 
-        tokenizer = AutoTokenizer.from_pretrained(local_path)
-        model = SentBertClassifier(users_layer=USE_AUTHORS, user_dim=args.user_dim, sbert_model=local_path, sbert_dim=args.sbert_dim, dropout_rate=dropout_rate)
+        tokenizer = AutoTokenizer.from_pretrained(sbert_model)
+        model = SentBertClassifier(users_layer=USE_AUTHORS, user_dim=args.user_dim, sbert_model=sbert_model, sbert_dim=args.sbert_dim, dropout_rate=dropout_rate)
     # elif model_name == 'judge_bert':
     #     logging.info("Training with Judge Bert, model name is {}".format(model_name))
     #     tokenizer = BertTokenizerFast.from_pretrained("bert-base-uncased")
@@ -308,6 +310,8 @@ if __name__ == '__main__':
     
     num_epochs = args.num_epochs
     num_training_steps = num_epochs * len(train_dataloader)
+    print(type(tokenized_dataset["train"]["labels"]))
+    print(tokenized_dataset["train"]["labels"][:5])
     samples_per_class_train = get_samples_per_class(tokenized_dataset["train"]['labels'])
 
     lr_scheduler = get_scheduler(
@@ -355,9 +359,8 @@ if __name__ == '__main__':
         logging.info("Epoch {} **** Loss {} **** Metrics validation: {}".format(epoch, loss, val_metric))
         if val_metric['f1_weighted'] > best_f1:
             best_f1 = val_metric['f1_weighted']
+            os.makedirs(os.path.dirname(checkpoint_dir), exist_ok=True)
             torch.save(model.state_dict(), checkpoint_dir)  
-        
-              
 
     logging.info("Evaluating")
     model.load_state_dict(torch.load(checkpoint_dir))
@@ -370,7 +373,7 @@ if __name__ == '__main__':
     result_logs = {'id': TIMESTAMP}
     result_logs['seed'] = SEED
     result_logs['type'] = f'NO VERDICTS TEXT + SITUATION {args.situation}'
-    result_logs['sbert_model'] = args.sbert_model
+    result_logs['sbert_model'] = sbert_model
     result_logs['model_name'] = args.model_name
     result_logs['use_authors_embeddings'] = USE_AUTHORS
     result_logs['authors_embedding_path'] = authors_embedding_path

@@ -77,31 +77,31 @@ def loss_fn(output, targets, samples_per_cls, no_of_classes=2, loss_type = "soft
 
 
 def get_verdicts_by_situations_split(dataset):
-    if not os.path.exists(r'data\splits\train_sit.txt'):
-    #if not os.path.exists('../data/splits/train_sit.txt'):
+    if not os.path.exists(r'dataset\splits\train_sit.txt'):
+    #if not os.path.exists('../dataset/splits/train_sit.txt'):
         all_situations = set(dataset.postIdToId.keys())
-        #annotated_situations = json.load(open(r'../data/conflict_aspect_annotations.json', 'r'))
-        annotated_situations = json.load(open(r'data/conflict_aspect_annotations.json', 'r'))
+        #annotated_situations = json.load(open(r'../dataset/conflict_aspect_annotations.json', 'r'))
+        annotated_situations = json.load(open(r'dataset/conflict_aspect_annotations.json', 'r'))
         annotated_situations = set(annotated_situations['data'].keys())
         all_situations = list(all_situations.difference(annotated_situations))
 
         train_situations, test_situations = train_test_split(all_situations, test_size=0.18, random_state=SEED)
         train_situations, val_situations = train_test_split(train_situations, test_size=0.15, random_state=SEED)
         test_situations.extend(list(annotated_situations))
-        # write_splits('../data/splits/train_sit.txt', train_situations)
-        # write_splits('../data/splits/test_sit.txt', test_situations)
-        # write_splits('../data/splits/val_sit.txt', val_situations)
-        write_splits(r'data\splits\train_sit.txt', train_situations)
-        write_splits(r'data\splits\test_sit.txt', test_situations)
-        write_splits(r'data\splits\val_sit.txt', val_situations)
+        # write_splits('../dataset/splits/train_sit.txt', train_situations)
+        # write_splits('../dataset/splits/test_sit.txt', test_situations)
+        # write_splits('../dataset/splits/val_sit.txt', val_situations)
+        write_splits(r'dataset\splits\train_sit.txt', train_situations)
+        write_splits(r'dataset\splits\test_sit.txt', test_situations)
+        write_splits(r'dataset\splits\val_sit.txt', val_situations)
     else:
         print("Loading situations splits.")
-        # train_situations = read_splits('../data/splits/train_sit.txt')
-        # val_situations = read_splits('../data/splits/val_sit.txt')
-        # test_situations = read_splits('../data/splits/test_sit.txt')
-        train_situations = read_splits(r'data\splits\train_sit.txt')
-        val_situations = read_splits(r'data\splits\val_sit.txt')
-        test_situations = read_splits(r'data\splits\test_sit.txt')
+        # train_situations = read_splits('../dataset/splits/train_sit.txt')
+        # val_situations = read_splits('../dataset/splits/val_sit.txt')
+        # test_situations = read_splits('../dataset/splits/test_sit.txt')
+        train_situations = read_splits(r'dataset\splits\train_sit.txt')
+        val_situations = read_splits(r'dataset\splits\val_sit.txt')
+        test_situations = read_splits(r'dataset\splits\test_sit.txt')
         
     postToVerdicts = ListDict()
     for v, s in dataset.verdictToParent.items():
@@ -115,19 +115,19 @@ def get_verdicts_by_situations_split(dataset):
 
 
 def get_verdicts_by_author_split(dataset):
-    #if not os.path.exists('../data/splits/train_author.txt'):
-    if not os.path.exists(r'C:\Users\User\PycharmProjects\perspectivism-personalization\data\splits\train_author.txt'):
+    #if not os.path.exists('../dataset/splits/train_author.txt'):
+    if not os.path.exists(r'C:\Users\User\PycharmProjects\perspectivism-personalization\dataset\splits\train_author.txt'):
             all_authors = list(dataset.authorsToVerdicts.keys())
             train_authors, test_authors = train_test_split(all_authors, test_size=0.2, random_state=SEED)
             train_authors, val_authors = train_test_split(train_authors, test_size=0.14, random_state=SEED)
-            write_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\data\splits\train_author.txt', train_authors)
-            write_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\data\splits\val_author.txt', val_authors)
-            write_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\data\splits\test_author.txt', test_authors)
+            write_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\dataset\splits\train_author.txt', train_authors)
+            write_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\dataset\splits\val_author.txt', val_authors)
+            write_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\dataset\splits\test_author.txt', test_authors)
     else:
         print("Reading authors splits.")
-        train_authors = read_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\data\splits\train_author.txt')
-        val_authors = read_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\data\splits\val_author.txt')
-        test_authors = read_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\data\splits\test_author.txt')
+        train_authors = read_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\dataset\splits\train_author.txt')
+        val_authors = read_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\dataset\splits\val_author.txt')
+        test_authors = read_splits(r'C:\Users\User\PycharmProjects\perspectivism-personalization\dataset\splits\test_author.txt')
         # train_authors.remove('Judgement_Bot_AITA')
         
     train_verdicts, train_labels = get_verdicts_labels_from_authors(dataset, train_authors)

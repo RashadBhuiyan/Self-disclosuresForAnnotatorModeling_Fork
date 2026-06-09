@@ -32,7 +32,7 @@ def print_args(args, logger):
         
         
 def get_samples_per_class(labels):
-    return torch.bincount(labels).tolist()
+    return torch.bincount(torch.tensor(labels, dtype=torch.long)).tolist()
 
 
 def get_current_timestamp():

@@ -1,6 +1,7 @@
 #!/bin/bash
+#SBATCH --job-name=file_validation
 #SBATCH --account=def-cfwelch
-#SBATCH --cpus-per-task=6
+#SBATCH --cpus-per-task=8
 #SBATCH --time=0:10:00
 #SBATCH --mail-user=bhuiyr2@mcmaster.ca
 #SBATCH --mail-type=BEGIN,END
