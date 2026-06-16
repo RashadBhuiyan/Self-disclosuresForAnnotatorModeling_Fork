@@ -4,9 +4,9 @@
 
 # Each job config line: embedding_file|output_name
 declare -a job_configs=(
-    "data/final_embeddings/diverse_sampling_all.pkl|diverse_sampling_all"
-    "data/final_embeddings/diverse_sampling_manual.pkl|diverse_sampling_manual"
-    "data/final_embeddings/diverse_sampling_clusters.pkl|diverse_sampling_clusters"
+    "dataset/final_embeddings/diverse_sampling_all.pkl|diverse_sampling_all"
+    "dataset/final_embeddings/diverse_sampling_manual.pkl|diverse_sampling_manual"
+    "dataset/final_embeddings/diverse_sampling_clusters.pkl|diverse_sampling_clusters"
 
 )
 
@@ -24,8 +24,8 @@ for i in {1..5}; do
 #SBATCH --cpus-per-task=6
 #SBATCH --mem=96G
 #SBATCH --time=5:59:00
-#SBATCH --gres=gpu:1
-#SBATCH --mail-user=hendek12@mcmaster.ca
+#SBATCH --gres=gpu:h100:1
+#SBATCH --mail-user=bhuiyr2@mcmaster.ca
 #SBATCH --mail-type=BEGIN,END
 #SBATCH --output=logs/slurm/${output_name}_${i}.out
 
@@ -34,7 +34,7 @@ module load StdEnv/2023
 module load gcc/12.3
 module load cuda/12.2
 module load cudnn/9.2.1.18
-module load arrow/18.1.0
+module load arrow/21.0.0
 
 source env/bin/activate
 python src/ft_bert_no_verdicts.py \
@@ -51,7 +51,7 @@ python src/ft_bert_no_verdicts.py \
 --situation='text' \
 --authors_embedding_path='${embedding_file}' \
 --plot_title='${output_name} Embedding Diverse' \
---path_to_data='data/' \
+--path_to_data='dataset/' \
 --social_norm='true' \
 --log_file='${output_name}_${i}'
 EOL
