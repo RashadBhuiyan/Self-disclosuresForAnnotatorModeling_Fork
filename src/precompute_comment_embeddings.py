@@ -2,6 +2,7 @@
 TODO
 """
 
+import csv
 import pandas as pd
 import glob
 import os
@@ -35,7 +36,6 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 from argparse import ArgumentParser
 parser = ArgumentParser()
-parser.add_argument("--path_to_data", required=True, type=str)
 parser.add_argument("--bert_model", default='sentence-transformers/all-distilroberta-v1', type=str)
 parser.add_argument("--dirname", required=True, type=str)
 parser.add_argument("--output_dir", required=True, type=str)
@@ -43,18 +43,23 @@ parser.add_argument("--embed_sentences", type=str2bool, default=False)
 parser.add_argument("--batch_size", type=int, default=1024)
 parser.add_argument("--output_file_name", type=str, default="precomputed_embeddings")
 
+# Constants
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
+data_dir = os.path.join(parent_dir, 'dataset')
+social_chemistry_path = os.path.join(data_dir, 'social_chemistry_clean_with_fulltexts.csv')
+social_comments_path = os.path.join(data_dir, 'social_norms_clean.csv')
+
 if __name__ == '__main__':
     args = parser.parse_args()
-    # DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    path_to_data = args.path_to_data
     output_file = args.output_file_name + '.pkl'
     embed_sentences = args.embed_sentences
     batch_size = args.batch_size
 
     logging.info("Loading data...")
-    social_chemistry = pd.read_csv(path_to_data + 'social_chemistry_clean_with_fulltexts.csv')
-    social_comments = pd.read_csv(path_to_data + 'social_norms_clean.csv', encoding="utf8")
+    social_chemistry = pd.read_csv(social_chemistry_path)
+    social_comments = pd.read_csv(social_comments_path, encoding="utf8")
     dataset = SocialNormDataset(social_comments, social_chemistry)
     authors = set(dataset.authorsToVerdicts.keys())
 
